@@ -13,6 +13,8 @@
   <symbol number="0043" entity="&#x0043;" char="&#x1d49e;"/>
   <!-- MATHEMATICAL SCRIPT CAPITAL D -->
   <symbol number="0044" entity="&#x0044;" char="&#x1d49f;"/>
+  <!-- MATHEMATICAL SCRIPT CAPITAL F -->
+  <symbol number="F046" entity="&#xF046;" char="&#x2131;"/>
   <!-- MATHEMATICAL SCRIPT CAPITAL G -->
   <symbol number="0047" entity="&#x0047;" char="&#x1d4a2;"/>  
   <!-- MATHEMATICAL SCRIPT CAPITAL K -->
@@ -21,6 +23,7 @@
   <symbol number="004E" entity="&#x004E;" char="&#x1d4a9;"/>
   <!-- MATHEMATICAL SCRIPT CAPITAL O -->
   <symbol number="004F" entity="&#x004F;" char="&#x1d4aa;"/>
+  <symbol number="F04F" entity="" char="&#x1d4aa;"/>
   <!-- MATHEMATICAL SCRIPT CAPITAL P -->
   <symbol number="0050" entity="&#x0050;" char="&#x1d4ab;"/>
   <!-- MATHEMATICAL SCRIPT CAPITAL Q -->

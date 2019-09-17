@@ -7,6 +7,8 @@
   <symbol number="0009" entity="&#x0009;" char="&#x0020;"/>
   <!-- HAIR SPACE -->
   <symbol number="002C" entity="&#x002c;" char="&#x200a;"/>
+  <!-- Rightwards Arrow From Bar -->
+  <symbol number="0061" entity="&#x0061;" char="&#x21A6;"/>
   <!-- TILDE OPERATOR -->
   <symbol number="F03A" entity="&#xf03a;" char="&#x223c;"/>
   <!-- ASYMPTOTICALLY EQUAL TO -->
