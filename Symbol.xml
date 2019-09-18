@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="US-ASCII"?><symbols>
+  
+  <!-- Please check/edit also MT_Symbol.xml for any change. -->
+
   <!--SPACE-->
   <symbol number="F020" entity="&#xf020;" char="&#x20;"/>
   <symbol number="0020" entity="&#x0020;" char="&#x20;"/>
