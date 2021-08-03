@@ -3,6 +3,8 @@
   <!--  *
         * WP Greek Century
         * -->
+  <!-- SPACE -->
+  <symbol number="F020" entity="&#xf020;" char="&#x20;"/>
   <!-- GREEK CAPITAL LETTER ALPHA -->
   <symbol number="F021" entity="&#xf021;" char="&#x391;"/>
   <!-- GREEK SMALL LETTER ALPHA  -->
