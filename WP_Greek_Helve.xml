@@ -22,17 +22,17 @@
   <!-- GREEK CAPITAL LETTER DELTA -->
   <symbol number="F029" entity="&#xf029;" char="&#x394;"/>
   <!-- GREEK SMALL LETTER DELTA -->
-  <symbol number="F02a" entity="&#xf02a;" char="&#x3b4;"/>
+  <symbol number="F02A" entity="&#xf02a;" char="&#x3b4;"/>
   <!-- GREEK CAPITAL LETTER EPSILON -->
-  <symbol number="F02b" entity="&#xf02b;" char="&#x395;"/>
+  <symbol number="F02B" entity="&#xf02b;" char="&#x395;"/>
   <!-- EPSILON SYMBOL -->
-  <symbol number="F02c" entity="&#xf02c;" char="&#x3f5;"/>
+  <symbol number="F02C" entity="&#xf02c;" char="&#x3f5;"/>
   <!-- GREEK CAPITAL LETTER ZETA -->
-  <symbol number="F02d" entity="&#xf02d;" char="&#x396;"/>
+  <symbol number="F02D" entity="&#xf02d;" char="&#x396;"/>
   <!-- GREEK SMALL LETTER ZETA -->
-  <symbol number="F02e" entity="&#xf02e;" char="&#x3b6;"/>
+  <symbol number="F02E" entity="&#xf02e;" char="&#x3b6;"/>
   <!-- GREEK CAPITAL LETTER ETA -->
-  <symbol number="F02f" entity="&#xf02f;" char="&#x397;"/>
+  <symbol number="F02F" entity="&#xf02f;" char="&#x397;"/>
   <!-- GREEK SMALL LETTER ETA -->
   <symbol number="F030" entity="&#xf030;" char="&#x3b7;"/>
   <!-- GREEK CAPITAL LETTER THETA -->
@@ -54,17 +54,17 @@
   <!-- GREEK CAPITAL LETTER MU -->
   <symbol number="F039" entity="&#xf039;" char="&#x39c;"/>
   <!-- GREEK SMALL LETTER MU -->
-  <symbol number="F03a" entity="&#xf03a;" char="&#x3bc;"/>
+  <symbol number="F03A" entity="&#xf03a;" char="&#x3bc;"/>
   <!-- GREEK CAPITAL LETTER NU -->
-  <symbol number="F03b" entity="&#xf03b;" char="&#x39d;"/>
+  <symbol number="F03B" entity="&#xf03b;" char="&#x39d;"/>
   <!-- GREEK SMALL LETTER NU -->
-  <symbol number="F03c" entity="&#xf03c;" char="&#x3bd;"/>`
+  <symbol number="F03C" entity="&#xf03c;" char="&#x3bd;"/>`
   <!-- GREEK CAPITAL LETTER XI -->
-  <symbol number="F03d" entity="&#xf03d;" char="&#x39e;"/>
+  <symbol number="F03D" entity="&#xf03d;" char="&#x39e;"/>
   <!-- GREEK SMALL LETTER XI -->
-  <symbol number="F03e" entity="&#xf03e;" char="&#x3be;"/>`
+  <symbol number="F03E" entity="&#xf03e;" char="&#x3be;"/>`
   <!-- GREEK CAPITAL LETTER OMICRON -->
-  <symbol number="F03f" entity="&#xf03f;" char="&#x39f;"/>
+  <symbol number="F03F" entity="&#xf03f;" char="&#x39f;"/>
   <!-- GREEK SMALL LETTER OMICRON -->
   <symbol number="F040" entity="&#xf040;" char="&#x3bf;"/>`
   <!-- GREEK CAPITAL LETTER PI -->
@@ -86,17 +86,17 @@
   <!-- GREEK CAPITAL LETTER TAU -->
   <symbol number="F049" entity="&#xf049;" char="&#x3a4;"/>
   <!-- GREEK SMALL LETTER TAU -->
-  <symbol number="F04a" entity="&#xf04a;" char="&#x3c4;"/>
+  <symbol number="F04A" entity="&#xf04a;" char="&#x3c4;"/>
   <!-- GREEK CAPITAL LETTER UPSILON -->
-  <symbol number="F04b" entity="&#xf04b;" char="&#x3a5;"/>
+  <symbol number="F04B" entity="&#xf04b;" char="&#x3a5;"/>
   <!-- GREEK SMALL LETTER UPSILON -->
-  <symbol number="F04c" entity="&#xf04c;" char="&#x3c5;"/>
+  <symbol number="F04C" entity="&#xf04c;" char="&#x3c5;"/>
   <!-- GREEK CAPITAL LETTER PHI -->
-  <symbol number="F04d" entity="&#xf04d;" char="&#x3a6;"/>
+  <symbol number="F04D" entity="&#xf04d;" char="&#x3a6;"/>
   <!-- GREEK PHI SYMBOL -->
-  <symbol number="F04e" entity="&#xf04e;" char="&#x3d5;"/>
+  <symbol number="F04E" entity="&#xf04e;" char="&#x3d5;"/>
   <!-- GREEK CAPITAL LETTER CHI -->
-  <symbol number="F04f" entity="&#xf04f;" char="&#x3a7;"/>
+  <symbol number="F04F" entity="&#xf04f;" char="&#x3a7;"/>
   <!-- GREEK SMALL LETTER CHI -->
   <symbol number="F050" entity="&#xf050;" char="&#x3c7;"/>
   <!-- GREEK CAPITAL LETTER PSI -->
@@ -118,17 +118,17 @@
   <!-- GREEK CAPITAL LETTER ETA WITH TONOS -->
   <symbol number="F059" entity="&#xf059;" char="&#x389;"/>
   <!-- GREEK SMALL LETTER ETA WITH TONOS -->
-  <symbol number="F05a" entity="&#xf05a;" char="&#x3ae;"/>
+  <symbol number="F05A" entity="&#xf05a;" char="&#x3ae;"/>
   <!-- GREEK CAPITAL LETTER IOTA WITH TONOS -->
-  <symbol number="F05b" entity="&#xf05b;" char="&#x38a;"/>
+  <symbol number="F05B" entity="&#xf05b;" char="&#x38a;"/>
   <!-- GREEK SMALL LETTER IOTA WITH TONOS -->
-  <symbol number="F05c" entity="&#xf05c;" char="&#x3af;"/>
+  <symbol number="F05C" entity="&#xf05c;" char="&#x3af;"/>
   <!-- GREEK CAPITAL LETTER IOTA WITH DIALYTIKA -->
-  <symbol number="F05d" entity="&#xf05d;" char="&#x3aa;"/>
+  <symbol number="F05D" entity="&#xf05d;" char="&#x3aa;"/>
   <!-- GREEK SMALL LETTER IOTA WITH DIALYTIKA -->
-  <symbol number="F05e" entity="&#xf05e;" char="&#x3ca;"/>
+  <symbol number="F05E" entity="&#xf05e;" char="&#x3ca;"/>
   <!-- GREEK CAPITAL LETTER OMICRON WITH TONOS -->
-  <symbol number="F05f" entity="&#xf05f;" char="&#x38c;"/>
+  <symbol number="F05F" entity="&#xf05f;" char="&#x38c;"/>
   <!-- GREEK SMALL LETTER OMICRON WITH TONOS -->
   <symbol number="F060" entity="&#xf060;" char="&#x3cc;"/>
   <!-- GREEK CAPITAL LETTER UPSILON WITH TONOS -->
@@ -150,15 +150,15 @@
   <!-- GREEK KAPPA SYMBOL -->
   <symbol number="F069" entity="&#xf069;" char="&#x3f0;"/>
   <!-- GREEK PI SYMBOL -->
-  <symbol number="F06a" entity="&#xf06a;" char="&#x3d6;"/>
+  <symbol number="F06A" entity="&#xf06a;" char="&#x3d6;"/>
   <!-- GREEK RHO SYMBOL -->
-  <symbol number="F06b" entity="&#xf06b;" char="&#x3f1;"/>
+  <symbol number="F06B" entity="&#xf06b;" char="&#x3f1;"/>
   <!-- GREEK SMALL LETTER STIGMA -->
-  <symbol number="F06c" entity="&#xf06c;" char="&#x3db;"/>
+  <symbol number="F06C" entity="&#xf06c;" char="&#x3db;"/>
   <!-- GREEK UPSILON WITH HOOK SYMBOL -->
-  <symbol number="F06d" entity="&#xf06d;" char="&#x3d2;"/>
+  <symbol number="F06D" entity="&#xf06d;" char="&#x3d2;"/>
   <!-- GREEK SMALL LETTER PHI -->
-  <symbol number="F06e" entity="&#xf06e;" char="&#x3c6;"/>
+  <symbol number="F06E" entity="&#xf06e;" char="&#x3c6;"/>
   <!-- GREEK SMALL LETTER OMEGA WITH HOOK -->
   <!-- No unicode representation -->
   <!-- GREEK QUESTION MARK -->
@@ -182,9 +182,9 @@
   <!-- COMBINING INVERTED BREVE -->
   <symbol number="F079" entity="&#xf079;" char="&#x311;"/>
   <!--  RIGHT SINGLE QUOTATION MARK -->
-  <symbol number="F07a" entity="&#xf07a;" char="&#x2019;"/>
+  <symbol number="F07A" entity="&#xf07a;" char="&#x2019;"/>
   <!-- LEFT SINGLE QUOTATION MARK  -->
-  <symbol number="F07b" entity="&#xf07b;" char="&#x2018;"/>
+  <symbol number="F07B" entity="&#xf07b;" char="&#x2018;"/>
   <!-- GREEK LETTER SAMPI -->
-  <symbol number="F10f" entity="&#xf10f;" char="&#x3e0;"/>
+  <symbol number="F10F" entity="&#xf10f;" char="&#x3e0;"/>
 </symbols>
