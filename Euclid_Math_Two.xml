@@ -15,7 +15,7 @@
   <symbol number="0042" entity="&#xea42;" char="&#x1d539;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL C -->
   <symbol number="0043" entity="&#xea43;" char="&#x2102;"/>
-  <symbol number="F043" entity="" char="&#x2102;"/>
+  <symbol number="F043" entity="&#xf043;" char="&#x2102;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL D -->
   <symbol number="0044" entity="&#xea44;" char="&#x1d53b;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL E -->
@@ -38,17 +38,17 @@
   <symbol number="004D" entity="&#xea49;" char="&#x1d544;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL N -->
   <symbol number="004E" entity="&#xea4e;" char="&#x2115;"/>
-  <symbol number="F04E" entity="" char="&#x2115;"/>
+  <symbol number="F04E" entity="&#xf04e;" char="&#x2115;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL O -->
   <symbol number="004F" entity="&#xea4f;" char="&#x1d546;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL P -->
   <symbol number="0050" entity="&#xea50;" char="&#x2119;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL Q -->
   <symbol number="0051" entity="&#xea51;" char="&#x211a;"/>
-  <symbol number="F051" entity="" char="&#x211a;"/>
+  <symbol number="F051" entity="&#xf051;" char="&#x211a;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL R -->
   <symbol number="0052" entity="&#xea52;" char="&#x211d;"/>
-  <symbol number="F052" entity="" char="&#x211d;"/>
+  <symbol number="F052" entity="&#xf052;" char="&#x211d;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL S -->
   <symbol number="0053" entity="&#xea53;" char="&#x1d54a;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL T -->
@@ -65,9 +65,9 @@
   <symbol number="0059" entity="&#xea59;" char="&#x1d550;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK CAPITAL Z -->
   <symbol number="005A" entity="&#xea5a;" char="&#x2124;"/>
-  <symbol number="F05A" entity="" char="&#x2124;"/>
+  <symbol number="F05A" entity="&#xf05a;" char="&#x2124;"/>
   <!-- MATHEMATICAL DOUBLE-STRUCK SMALL K -->
   <symbol number="006B" entity="&#xea6b;" char="&#x1d55c;"/>
   <!-- Precedes Or Equal To -->
-  <symbol number="F0B0" entity="" char="&#x227c;"/>
+  <symbol number="F0B0" entity="&#xf0b0;" char="&#x227c;"/>
 </symbols>
