@@ -5,6 +5,8 @@
         * -->
   <!-- SPACE -->
   <symbol number="0009" entity="&#x0009;" char="&#x0020;"/>
+  <symbol number="0020" entity="&#x0020;" char="&#x0020;"/>
+  <symbol number="F020" entity="&#xf020;" char="&#x0020;"/>
   <!-- SUBSET OF WITH NOT EQUAL TO -->
   <symbol number="00D8" entity="&#xea42;" char="&#x228a;"/>
   <!-- SUPERSET OF WITH NOT EQUAL TO -->
