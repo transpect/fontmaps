@@ -46,7 +46,7 @@
   <!-- ELLIPSIS -->
   <symbol number="F04b" entity="&#xf04b;" char="&#x2026;"/>
   <!-- MIDLINE HORIZONTAL ELLIPSIS -->
-  <symbol number="F04c" entity="&#xf04c;" char="&#x22ef;"/>
+  <symbol number="F04C" entity="&#xf04c;" char="&#x22ef;"/>
   <!-- VERTICAL ELLIPSIS -->
   <symbol number="F04d" entity="&#xf04d;" char="&#x22ee;"/>
   <!-- UP RIGHT DIAGONAL ELLIPSIS -->
@@ -72,4 +72,5 @@
   <!-- LATIN SMALL LETTER H WITH STROKE -->
   <symbol number="F068" entity="&#xf068;" char="&#x210F;"/>
   <symbol number="0068" entity="&#x0068;" char="&#x210F;"/>
+  <symbol number="F0A1" entity="&#xF0A1;" char="&#x211D;"/>
 </symbols>
